@@ -18,3 +18,5 @@ run:
 check:
 ```cargo check```
 
+open cargo docs
+```cargo doc --open```
