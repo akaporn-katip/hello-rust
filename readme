@@ -1,0 +1,13 @@
+To turn this source code into an executable, you can use rustc:
+
+```
+$ rustc hello.rs
+$ ./hello
+```
+
+To create new package with `cargo new`:
+
+```$ cargo new hello_world```
+
+build: 
+```cargo build```
