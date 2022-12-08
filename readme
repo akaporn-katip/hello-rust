@@ -11,3 +11,10 @@ To create new package with `cargo new`:
 
 build: 
 ```cargo build```
+
+run:
+```cargo run```
+
+check:
+```cargo check```
+
